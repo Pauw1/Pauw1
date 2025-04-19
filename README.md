@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate as a trainee in some interesting projects :D
 - 📫 You can reach me through my email: rojasgpaulina@gmail.com
 - 😄 Pronouns: she/her ...
-- ⚡ Fun fact: I studied Dentistry for many years, just to ending up knowing that I wanted to get closer to technology and work in the IT area haha.
+- ⚡ Fun fact: I studied Dentistry for many years, just to end up knowing that I wanted to get closer to technology and work in the IT area haha.
 
 <!---
 Pauw1/Pauw1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
